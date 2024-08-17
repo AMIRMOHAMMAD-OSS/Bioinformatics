@@ -1,0 +1,11 @@
+array([[1097,    2],
+       [   7,  490]])
+
+10fold cross validation : array([0.99443285, 0.99304106, 0.99373259, 0.99442897, 0.99442897,
+       0.99442897, 0.99442897, 0.99512535, 0.99094708, 0.99303621])
+
+
+Accuracy: 0.99
+Sensitivity (True Positive Rate): 0.99
+Specificity: 1.00
+Positive Predictive Value (PPV): 1.00
